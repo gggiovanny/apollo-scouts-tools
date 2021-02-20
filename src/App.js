@@ -5,7 +5,11 @@ function App() {
     <>
       <div className="container ">
         <section className="section">
-          <IdentificationCard />
+          <IdentificationCard
+            apollitos={15}
+            nombre={'Giovanny González Baltazar'}
+            rango={'tropero'}
+          />
         </section>
       </div>
     </>
