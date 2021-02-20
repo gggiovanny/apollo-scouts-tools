@@ -1,9 +1,15 @@
+import { IdentificationCard } from './components/IdentificationCard'
+
 function App() {
   return (
     <>
-      Hola :D
+      <div className="container ">
+        <section className="section">
+          <IdentificationCard />
+        </section>
+      </div>
     </>
-  );
+  )
 }
 
-export default App;
+export default App
