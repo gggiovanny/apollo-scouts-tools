@@ -17,7 +17,7 @@ const IdCardWrapper = styled.div`
     'Name Name';
   grid-gap: 10px;
   padding: 35px;
-  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1002%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='url(%23SvgjsLinearGradient1003)'%3e%3c/rect%3e%3cpath d='M1440 0L722.81 0L1440 221.67z' fill='rgba(255%2c 255%2c 255%2c .1)'%3e%3c/path%3e%3cpath d='M722.81 0L1440 221.67L1440 230.95999999999998L643.9799999999999 0z' fill='rgba(255%2c 255%2c 255%2c .075)'%3e%3c/path%3e%3cpath d='M643.9799999999999 0L1440 230.95999999999998L1440 333.13L245.5499999999999 0z' fill='rgba(255%2c 255%2c 255%2c .05)'%3e%3c/path%3e%3cpath d='M245.54999999999995 0L1440 333.13L1440 341.8L106.10999999999996 0z' fill='rgba(255%2c 255%2c 255%2c .025)'%3e%3c/path%3e%3cpath d='M0 560L549.69 560L0 492.53z' fill='rgba(0%2c 0%2c 0%2c .1)'%3e%3c/path%3e%3cpath d='M0 492.53L549.69 560L665.0300000000001 560L0 426.21z' fill='rgba(0%2c 0%2c 0%2c .075)'%3e%3c/path%3e%3cpath d='M0 426.21000000000004L665.0300000000001 560L851.6500000000001 560L0 160.85000000000002z' fill='rgba(0%2c 0%2c 0%2c .05)'%3e%3c/path%3e%3cpath d='M0 160.85000000000002L851.6500000000001 560L894.7800000000001 560L0 129.10000000000002z' fill='rgba(0%2c 0%2c 0%2c .025)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1002'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='15.28%25' y1='-39.29%25' x2='84.72%25' y2='139.29%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1003'%3e%3cstop stop-color='%230e2a47' offset='0'%3e%3c/stop%3e%3cstop stop-color='%2300459e' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='650' height='420' preserveAspectRatio='none' viewBox='0 0 650 420'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1010%26quot%3b)' fill='none'%3e%3crect width='650' height='420' x='0' y='0' fill='url(%23SvgjsLinearGradient1011)'%3e%3c/rect%3e%3cpath d='M650 0L621.57 0L650 176.47z' fill='rgba(255%2c 255%2c 255%2c .1)'%3e%3c/path%3e%3cpath d='M621.57 0L650 176.47L650 199.48L618.87 0z' fill='rgba(255%2c 255%2c 255%2c .075)'%3e%3c/path%3e%3cpath d='M618.87 0L650 199.48L650 211.76999999999998L300.89 0z' fill='rgba(255%2c 255%2c 255%2c .05)'%3e%3c/path%3e%3cpath d='M300.89 0L650 211.76999999999998L650 277.59L251.1 0z' fill='rgba(255%2c 255%2c 255%2c .025)'%3e%3c/path%3e%3cpath d='M0 420L229.36 420L0 328.2z' fill='rgba(0%2c 0%2c 0%2c .1)'%3e%3c/path%3e%3cpath d='M0 328.2L229.36 420L377.95000000000005 420L0 215.10999999999999z' fill='rgba(0%2c 0%2c 0%2c .075)'%3e%3c/path%3e%3cpath d='M0 215.11L377.95000000000005 420L408.4200000000001 420L0 164.61z' fill='rgba(0%2c 0%2c 0%2c .05)'%3e%3c/path%3e%3cpath d='M0 164.61L408.4200000000001 420L489.49000000000007 420L0 156.87z' fill='rgba(0%2c 0%2c 0%2c .025)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1010'%3e%3crect width='650' height='420' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='91.15%25' y1='-13.69%25' x2='8.85%25' y2='113.69%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1011'%3e%3cstop stop-color='rgba(0%2c 128%2c 51%2c 1)' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(14%2c 42%2c 71%2c 1)' offset='0.16'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");
 `
 
 const TitleArea = styled.div`
@@ -41,9 +41,9 @@ const Subtitle = styled.h2`
 const CreditsArea = styled.div`
   grid-area: CreditsArea;
   display: grid;
-  grid-gap: 20px;
+  grid-gap: 35px;
   grid-template-columns: 10px auto;
-  font-size: 1.5em;
+  font-size: 2em;
   align-items: center;
   font-family: 'Inconsolata';
 `
@@ -58,7 +58,7 @@ const ChipArea = styled.div`
 const Name = styled.h3`
   grid-area: Name;
   font-family: 'Roboto Mono', monospace;
-  font-size: 30px;
+  font-size: 25px;
   display: flex;
   align-items: flex-end;
 `
