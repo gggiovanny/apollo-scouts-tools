@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/apollo-scouts-tools/static/css/main.c90578a8.chunk.css",
+    "main.js": "/apollo-scouts-tools/static/js/main.6f0d7ece.chunk.js",
+    "main.js.map": "/apollo-scouts-tools/static/js/main.6f0d7ece.chunk.js.map",
+    "runtime-main.js": "/apollo-scouts-tools/static/js/runtime-main.2ee1883c.js",
+    "runtime-main.js.map": "/apollo-scouts-tools/static/js/runtime-main.2ee1883c.js.map",
+    "static/js/2.7dc4ff12.chunk.js": "/apollo-scouts-tools/static/js/2.7dc4ff12.chunk.js",
+    "static/js/2.7dc4ff12.chunk.js.map": "/apollo-scouts-tools/static/js/2.7dc4ff12.chunk.js.map",
+    "static/js/3.f5db4cc0.chunk.js": "/apollo-scouts-tools/static/js/3.f5db4cc0.chunk.js",
+    "static/js/3.f5db4cc0.chunk.js.map": "/apollo-scouts-tools/static/js/3.f5db4cc0.chunk.js.map",
+    "index.html": "/apollo-scouts-tools/index.html",
+    "static/css/main.c90578a8.chunk.css.map": "/apollo-scouts-tools/static/css/main.c90578a8.chunk.css.map",
+    "static/js/2.7dc4ff12.chunk.js.LICENSE.txt": "/apollo-scouts-tools/static/js/2.7dc4ff12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ee1883c.js",
+    "static/js/2.7dc4ff12.chunk.js",
+    "static/css/main.c90578a8.chunk.css",
+    "static/js/main.6f0d7ece.chunk.js"
+  ]
+}
